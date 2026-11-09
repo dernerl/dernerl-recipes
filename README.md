@@ -5,6 +5,7 @@
 | App | Recipes | Source | Code signature |
 |---|---|---|---|
 | [IceMelt](https://github.com/pnikolaidis/icemelt): menu bar manager for macOS 26+ | `IceMelt.download`, `IceMelt.munki` | Vendor Sparkle feed, GitHub Releases | Team ID `VZGXGAK29Q` |
+| [Irrlicht](https://github.com/ingo-eichhorst/Irrlicht): Claude Code session lights in the macOS menu bar | `Irrlicht.download`, `Irrlicht.munki` | Vendor Sparkle feed, GitHub Releases | Team ID `93Y3GMJAMV` |
 
 ## Usage
 
